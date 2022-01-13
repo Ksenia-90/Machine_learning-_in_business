@@ -1,2 +1,2 @@
-# Machine_learning-_in_business
+# Machine_learning_in_business
 Машинное обучение в бизнесе
